@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenerIn Automation", "ScreenerIn Automation\ScreenerIn Automation.csproj", "{3DE0C3A2-C2E6-4CED-8AF5-F56732D78F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DE0C3A2-C2E6-4CED-8AF5-F56732D78F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE0C3A2-C2E6-4CED-8AF5-F56732D78F50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE0C3A2-C2E6-4CED-8AF5-F56732D78F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE0C3A2-C2E6-4CED-8AF5-F56732D78F50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98528B1B-32C0-4475-8E31-CB27290E6DA1}
+	EndGlobalSection
+EndGlobal
